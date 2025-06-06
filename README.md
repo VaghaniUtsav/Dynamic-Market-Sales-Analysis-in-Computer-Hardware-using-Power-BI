@@ -198,7 +198,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ## 📞 Contact & Support
 
 **Utsav Vaghani**
-- 📧 Email: [Utsav]([vaghaniutsav25@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new))
+- 📧 Email: [Utsav](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 - 💼 LinkedIn: [Utsav Vaghani](https://www.linkedin.com/in/utsav--vaghani/)
 - 🐙 GitHub: [@VaghaniUtsav](https://github.com/VaghaniUtsav)
 
